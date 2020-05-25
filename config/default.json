@@ -1,0 +1,27 @@
+{
+    "http": {
+        "port": 8080
+    },
+    "development": {
+        "username": "root",
+        "password": "root",
+        "database": "detectornotifier",
+        "host": "127.0.0.1",
+        "port": "27017",
+        "jwtkey": "detectornotifier"
+    },
+    "test": {
+        "username": "root",
+        "password": "root",
+        "database": "detectornotifier-test",
+        "host": "127.0.0.1",
+        "port": "postgres"
+    },
+    "production": {
+        "username": "root",
+        "password": "root",
+        "database": "detectornotifier",
+        "host": "127.0.0.1",
+        "port": "27017"
+    }
+}
