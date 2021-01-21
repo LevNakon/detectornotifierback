@@ -20,7 +20,7 @@
     "mongoose": "^5.9.10",
     "node-cache": "^5.1.0",
     "pool.socket.io": "0.0.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "validator": "^13.0.0",
     "winston": "^3.2.1"
   },
