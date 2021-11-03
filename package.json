@@ -21,7 +21,7 @@
     "node-cache": "^5.1.0",
     "pool.socket.io": "0.0.1",
     "socket.io": "^2.3.0",
-    "validator": "^13.0.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
